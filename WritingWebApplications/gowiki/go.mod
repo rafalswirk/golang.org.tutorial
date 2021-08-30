@@ -1,3 +1,3 @@
-module examples.com/wiki
+module example.org/gowiki
 
 go 1.17
